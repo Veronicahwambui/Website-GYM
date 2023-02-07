@@ -14,11 +14,12 @@ const Footer = () => {
           <img src={Instagram} alt=''/>
           <img src={Linkedln} alt=''/>
           </div>
-        </div>
-<div className='logo-f'>
+          <div className='logo-f'>
 
 <img src={Logo} alt=''/>
 </div>
+        </div>
+
 
 <div className='blur blur-f-1'>
 
