@@ -32,7 +32,6 @@ function App() {
       <Route path="/" component= {<Plans/>} />  
       <Route path="/testimonial" component={<Testimonial/> } />  
       <Route path="/join" component={ <Join/> } />  
-      <Route path="/footer" component={ <Footer/>  } />  
 
       </Routes> */}
 
