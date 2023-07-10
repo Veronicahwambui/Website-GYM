@@ -28,7 +28,7 @@
 .right-j{
      display: flex;
      justify-content: center;
-     align-items: flex-end;
+     align-items: flex-start;
 }
 .email-container{
     display: flex; 
